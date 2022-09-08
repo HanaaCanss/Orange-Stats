@@ -2,19 +2,19 @@
 # If you need help, join our discord server here: https://discord.gg/zv6maQRah3
 
 # Bot Info's
-token: 'BOT TOKEN' # Put bot token here, check https://discord.dev to create and get bot token
+token: 'MTAxNzQ3MzE2MDE0NjMyMTQwOA.GRU6xM.4bz9Yc9fgVU-yweNe5cVEgmVZHSvz54PSX9Dow' # Put bot token here, check https://discord.dev to create and get bot token
 botstatus:
-  enable: false # Enable Custom Status (MUST BE "true" OR "false")
-  text: 'Hosting Panel' # Bot Status Message
+  enable: true # Enable Custom Status (MUST BE "true" OR "false")
+  text: 'gp.hirukacloud.ml' # Bot Status Message
   type: 'WATCHING' # Bot Status Type. Ex: PLAYING, WATCHING, LISTENING, STREAMING
 
 # Channel and RefreshTime Configuration
 channel: 'CHANNEL ID' # Put channel id here where the embed will be sended
-refreshtime: 60 # Time when the embed edited/refreshed (MUST BE A SECONDS) (RECOMMENDED MORE THAN 20 SECONDS)
+refreshtime: 20 # Time when the embed edited/refreshed (MUST BE A SECONDS) (RECOMMENDED MORE THAN 20 SECONDS)
 
 # Panel Info's
 panel:
-  url: 'HOST PANEL LINK' # Put panel url here. Example: https://panel.purenodes.net
+  url: 'gp.hirukacloud.ml' # Put panel url here. Example: https://panel.purenodes.net
   adminkey: 'ADMIN APIKEY' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
 
 # Embed Configuration
